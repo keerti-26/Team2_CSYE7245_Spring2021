@@ -14,12 +14,8 @@
 ```
 https://codelabs-preview.appspot.com/?file_id=1Wt2R_j05JWwWXw0DRV1NSJA8mi0lIOv_Zmzme68r9is#0
 ```
-
-#### Requirements
-
-```
-To Prepare for our Lab Environment we registered for a Snowflake free 30-day trial and used Snowflake Enterprise Edition, AWS cloud provider, and selected US East region.
-```
+## About
+This lab demonstrates working with Snowflake data cloud, querying, data loading, caching, cloning, user roles and permissions and time travel concepts.
 
 ## What is Snowflake Data Cloud
 ![144814496-8b0e8f3d-cd07-475f-8439-23eb034f0f97](https://user-images.githubusercontent.com/71197800/109202699-448c7e80-7771-11eb-801b-17823b94ad77.jpg)
@@ -29,6 +25,11 @@ that are faster, easier to use, and far more flexible than traditional offerings
 designed for the cloud. To the user, Snowflake provides all of the functionality of an enterprise analytic database, along with many additional special features and unique 
 capabilities.
 
+#### Requirements
+
+```
+To Prepare for our Lab Environment we registered for a Snowflake free 30-day trial and used Snowflake Enterprise Edition, AWS cloud provider, and selected US East region.
+```
 
 #### Contents
 1. Preparing to Load Data
@@ -85,6 +86,10 @@ create role junior_dba;
 grant role junior_dba to user KEERTI26;-
 ```
 
+#### Lessons learned
+1. Learned to create stages, databases, tables, views, and warehouses on Snowflake
+2. Learned to load structured and semi structured data, querying the tables and cloning the table
+3. Also learned to grant privileges to roles and time travelling i.e rolling back the dropped table  and updated records.
 
 
 
