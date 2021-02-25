@@ -84,6 +84,10 @@ REGION = 'us-central1'
  project-ID-my-bucket
 3. Leave REGION as us-central1.
 
+#### Lesson Learned
+1. Learned to set up a project in Google Cloud and instantiate DataLab from Cloud shell editor using shell commands.
+2. Data exploration in Datalab and writing BigQuery to load data in dataframe and visualization.
+3. Preprocessing of data using Dataflow
 
 
 
