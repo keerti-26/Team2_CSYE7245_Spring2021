@@ -13,20 +13,20 @@ capabilities.
 
 
 #### Contents
--Preparing to Load Data
--Loading Data
--Analytical Queries, Results Cache, Cloning
--Working With Semi-Structured Data, Views, JOIN
--Time Travelling
--Role based Access Controls
+Preparing to Load Data
+Loading Data
+Analytical Queries, Results Cache, Cloning
+Working With Semi-Structured Data, Views, JOIN
+Time Travelling
+Role based Access Controls
 
 #### Preparing to Load Data
 First step is to create a database and table on the Snowflake Cloud
-External stage needs to be created to copy data from S3bucket into table created
+External stage needs to be created to copy data from S3bucket into table created.Use the below query
    ```
     create or replace stage citibike_trips url = 's3://snowflake-workshop-lab/citibike-trips';
    ```
-We have to created a file format for data that will be stored in table
+In this step we created a file format for data that will be stored in table
 
 #### Loading Data
 In order to stage data from S3 into table we need to create datawarehouse using below query
