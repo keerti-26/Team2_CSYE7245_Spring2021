@@ -22,8 +22,6 @@ To Prepare for our Lab Environment we registered for a Snowflake free 30-day tri
 ```
 
 ## What is Snowflake Data Cloud
-
-![social-icon-google-cloud-1200-630](https://user-images.githubusercontent.com/71197800/109201378-c4b1e480-776f-11eb-97bb-63d40a561250.png)
 ![144814496-8b0e8f3d-cd07-475f-8439-23eb034f0f97](https://user-images.githubusercontent.com/71197800/109202699-448c7e80-7771-11eb-801b-17823b94ad77.jpg)
 
 **Snowflake’s Data Cloud** is powered by an advanced data platform provided as Software-as-a-Service (SaaS). Snowflake enables data storage, processing, and analytic solutions 
