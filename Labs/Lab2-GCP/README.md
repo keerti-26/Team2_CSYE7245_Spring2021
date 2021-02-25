@@ -25,6 +25,8 @@ https://codelabs-preview.appspot.com/?file_id=1fINTQ8gSgDQrvLZDvxJ6tdww9snCitipk
 
 ## What is GCP
 
+![social-icon-google-cloud-1200-630](https://user-images.githubusercontent.com/71197800/109201378-c4b1e480-776f-11eb-97bb-63d40a561250.png)
+
 ***Google Cloud Platform (GCP)***, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google
 uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube. Alongside a set of management tools,
 it provides a series of modular cloud services including computing, data storage, data analytics and machine learning.
