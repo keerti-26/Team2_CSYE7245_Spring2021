@@ -1,18 +1,31 @@
-### Lab - GCP-Datalab/Dataflow/BigQuery 
+## Big Data Systems and Int Analytics
 
-### Team Members
-Keerti Ojha | Priyanka Malpekar | Tanvi Gurav
---- | --- | --- |
-001050173 | 001302741 | 001306848
+## Lab - GCP-Datalab/Dataflow/BigQuery 
 
-#### Requirements
+#### Team Information
+
+| NAME              |     NUID        |
+|------------------ |-----------------|
+|   Tanvi Gurav     |   001443824     |
+|   Keerti Ojha     |   001050173     |
+| Priyanka Malpekar |   001302741     |
+
+Lab Completion date : 29th January’ 21
+
+#### CLAAT Link
 
 ```
--In the Google Cloud Console, on the project selector page, select or create a Google Cloud project.
--Enabled the BigQuery, AI Platform, Cloud Source Repositories, Dataflow, and Datalab APIs.
+https://codelabs-preview.appspot.com/?file_id=1fINTQ8gSgDQrvLZDvxJ6tdww9snCitipkPd5u2VWWgA#4
 ```
-#### What is GCP
-Google Cloud Platform (GCP), offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google
+
+## Requirements
+
+1. In the **Google Cloud Console**, on the project selector page, select or create a Google Cloud project.
+2. Enabled the **BigQuery, AI Platform, Cloud Source Repositories, Dataflow, and Datalab APIs**.
+
+## What is GCP
+
+***Google Cloud Platform (GCP)***, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google
 uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube. Alongside a set of management tools,
 it provides a series of modular cloud services including computing, data storage, data analytics and machine learning.
 
@@ -53,16 +66,17 @@ Copy and paste the following command in the first cell of the new notebook.
 In Datalab, open the notebook training-data-analyst/blogs/babyweight/babyweight.ipynb.
 
 #### Perform preprocessing and Visualization
-Project ID and Bucket setup in notebook
-In the first cell, set the variable PROJECT to your project ID.
+
+#### Project ID and Bucket setup in notebook
+1. In the first cell, set the variable PROJECT to your project ID.
 ```
 BUCKET = 'sunlit-adviser-303301-ml'
 PROJECT = 'sunlit-adviser-303301'
 REGION = 'us-central1'
 ```
-Set the variable BUCKET to your bucket name in the first cell. For your bucket name, use your project ID as a prefix and my-bucket:
+2. Set the variable BUCKET to your bucket name in the first cell. For your bucket name, use your project ID as a prefix and my-bucket:
  project-ID-my-bucket
-Leave REGION as us-central1.
+3. Leave REGION as us-central1.
 
 
 
