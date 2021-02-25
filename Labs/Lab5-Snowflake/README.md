@@ -1,7 +1,7 @@
 ### Lab - Snowflake 
 
 ### Team Members
-Keerti | Priyanka Malpekar | Tanvi Gurav
+Keerti Ojha | Priyanka Malpekar | Tanvi Gurav
 --- | --- | --- |
 001050173 | 001302741 | 001306848
 
