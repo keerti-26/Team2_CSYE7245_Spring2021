@@ -18,10 +18,9 @@
 https://codelabs-preview.appspot.com/?file_id=1fINTQ8gSgDQrvLZDvxJ6tdww9snCitipkPd5u2VWWgA#4
 ```
 
-## Requirements
+## About
 
-1. In the **Google Cloud Console**, on the project selector page, select or create a Google Cloud project.
-2. Enabled the **BigQuery, AI Platform, Cloud Source Repositories, Dataflow, and Datalab APIs**.
+This lab demonstrates GCP services like Datalab, Dataflow and BigQuery for implementing data analysis and preprocessing for machine learning.
 
 ## What is GCP
 
@@ -31,6 +30,11 @@ https://codelabs-preview.appspot.com/?file_id=1fINTQ8gSgDQrvLZDvxJ6tdww9snCitipk
 uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube. Alongside a set of management tools,
 it provides a series of modular cloud services including computing, data storage, data analytics and machine learning.
 
+
+## Requirements
+
+1. In the **Google Cloud Console**, on the project selector page, select or create a Google Cloud project.
+2. Enabled the **BigQuery, AI Platform, Cloud Source Repositories, Dataflow, and Datalab APIs**.
 
 #### Dataset
 We used public Natality dataset to create an ML model to predict a baby's weight given a number of factors about the pregnancy and the baby's mother.
