@@ -24,7 +24,8 @@ This lab demonstrates GCP services like Datalab, Dataflow and BigQuery for imple
 
 ## What is GCP
 
-![social-icon-google-cloud-1200-630](https://user-images.githubusercontent.com/71197800/109201378-c4b1e480-776f-11eb-97bb-63d40a561250.png)
+<img width="443" alt="social-icon-google-cloud-1200-630" src="https://user-images.githubusercontent.com/59594174/109230009-2420ec00-7792-11eb-9ea7-203fa00a9d41.png">
+
 
 ***Google Cloud Platform (GCP)***, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google
 uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube. Alongside a set of management tools,
@@ -83,11 +84,3 @@ REGION = 'us-central1'
 2. Set the variable BUCKET to your bucket name in the first cell. For your bucket name, use your project ID as a prefix and my-bucket:
  project-ID-my-bucket
 3. Leave REGION as us-central1.
-
-#### Lesson Learned
-1. Learned to set up a project in Google Cloud and instantiate DataLab from Cloud shell editor using shell commands.
-2. Data exploration in Datalab and writing BigQuery to load data in dataframe and visualization.
-3. Preprocessing of data using Dataflow
-
-
-
